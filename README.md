@@ -8,11 +8,11 @@
 <b>Security Operations Center Home Lab</b>
 
 In this project, I set up a fully functioning Security Operations Center (SOC) homelab, where I deployed and configured SIEM tools, monitored network traffic, and simulated attacks to test incident response processes.
-  - [Created a logical diagram](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Setup & Configured ELK](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Attacked a sytem to detect & investigate suspicious/malicious activity (SSH, RDP, Bruteforce)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Created alerts & dashboards](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Setup and intergrated ticketing system](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Created a logical diagram](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Setup & Configured ELK](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Attacked a sytem to detect & investigate suspicious/malicious activity (SSH, RDP, Bruteforce)](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Created alerts & dashboards](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Setup and intergrated ticketing system](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
     
   <b>Splunk BOTS (Boss Of The SOC 1,2,3) Lab Project</b>
   
