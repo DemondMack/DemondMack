@@ -26,6 +26,8 @@ Completed hands-on training in key SOC areas, including cyber defense frameworks
   - Performed digital forensics with Autopsy, Redline, KAPE, and Volatility
   - Conducted phishing analysis and mitigation using phishing tools
   - Completed advanced SOC capstone challenges involving real-world attack scenarios
+<br />
+<br />
     
  
   
