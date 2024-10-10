@@ -19,13 +19,13 @@ In this project, I set up a fully functioning Security Operations Center (SOC) h
 <b>TryHackMe SOC Level 1</b>
 
 Completed hands-on training in key SOC areas, including cyber defense frameworks, threat intelligence, network security, endpoint monitoring, and digital forensics.
-  - [Utilized frameworks (MITRE ATT&CK, Cyber Kill Chain) to identify and analyze threats]([https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Analyzed network traffic using Wireshark, Snort, Zeek, and TShark](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Monitored and investigated endpoint security with Sysmon, Osquery, and Windows Event Logs](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Configured and investigated incidents in SIEM tools (ELK, Splunk)](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Performed digital forensics with Autopsy, Redline, KAPE, and Volatility](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Conducted phishing analysis and mitigation using phishing tools](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
-  - [Completed advanced SOC capstone challenges involving real-world attack scenarios](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Utilized frameworks (MITRE ATT&CK, Cyber Kill Chain) to identify and analyze threats](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Analyzed network traffic using Wireshark, Snort, Zeek, and TShark](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Monitored and investigated endpoint security with Sysmon, Osquery, and Windows Event Logs](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Configured and investigated incidents in SIEM tools (ELK, Splunk)](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Performed digital forensics with Autopsy, Redline, KAPE, and Volatility](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Conducted phishing analysis and mitigation using phishing tools](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
+  - [Completed advanced SOC capstone challenges involving real-world attack scenarios](https://github.com/DemondMack/TryHackMe-SOC-Level-1)
 <br />
 <br />
     
