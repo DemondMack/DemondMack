@@ -19,7 +19,7 @@ In this project, I set up a fully functioning Security Operations Center (SOC) h
 <b>TryHackMe SOC Level 1</b>
 
 Completed hands-on training in key SOC areas, including cyber defense frameworks, threat intelligence, network security, endpoint monitoring, and digital forensics.
-  - [Utilized frameworks (MITRE ATT&CK, Cyber Kill Chain) to identify and analyze threats](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
+  - [Utilized frameworks (MITRE ATT&CK, Cyber Kill Chain) to identify and analyze threats]([https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
   - [Analyzed network traffic using Wireshark, Snort, Zeek, and TShark](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
   - [Monitored and investigated endpoint security with Sysmon, Osquery, and Windows Event Logs](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
   - [Configured and investigated incidents in SIEM tools (ELK, Splunk)](https://github.com/DemondMack/SecurityOperationsCenterHomeLab)
