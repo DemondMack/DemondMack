@@ -1,8 +1,10 @@
-## Hi, I'm Demond!
+# Hi, I'm Demond!
 
 **SOC Analyst | Threat Detection • Incident Response • SIEM Monitoring**
 
 Focused on monitoring systems, detecting anomalies, and performing structured investigations — with real-world experience mapped directly to SOC workflows.
+
+---
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 <b>Industrial Operations → SOC Analyst Mindset Mapping</b>
