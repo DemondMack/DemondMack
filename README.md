@@ -7,7 +7,7 @@ Focused on monitoring systems, detecting anomalies, and performing structured in
 ---
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
-<b>Industrial Operations → SOC Analyst Mindset Mapping</b>
+<b>Industrial Experience → SOC Analyst Workflow Mapping</b>
 
 In this project, I demonstrate how my real-world experience in industrial system monitoring, anomaly detection, investigation, and incident response directly aligns with SOC Analyst Level 1 workflows.
 
