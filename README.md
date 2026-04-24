@@ -5,18 +5,16 @@
 
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
-### Industrial Operations → SOC Analyst Mindset Mapping
+<b>Industrial Operations → SOC Analyst Mindset Mapping</b>
 
 In this project, I demonstrate how my real-world experience in industrial system monitoring, anomaly detection, investigation, and incident response directly aligns with SOC Analyst Level 1 workflows.
 
-- Mapped real-time system monitoring to SIEM-based alert monitoring  
-- Translated anomaly detection in physical systems to threat detection in security environments  
-- Demonstrated structured investigation methods using root cause analysis and validation processes  
-- Showed parallels between industrial incident response and SOC containment/remediation strategies  
-- Highlighted escalation, documentation, and decision-making under pressure in high-risk environments  
-
-- 🔗 View Project:
-  https://github.com/DemondMack/industrial-operations-to-soc-analyst
+• Mapped real-time system monitoring to SIEM-based alert monitoring  
+• Translated anomaly detection in physical systems to threat detection in security environments  
+• Demonstrated structured investigation methods using root cause analysis and validation processes  
+• Showed parallels between industrial incident response and SOC containment/remediation strategies  
+• Highlighted escalation, documentation, and decision-making under pressure in high-risk environments  
+• 🔗 View Project: https://github.com/DemondMack/industrial-operations-to-soc-analyst
   
 
 <b>Security Operations Center Home Lab</b>
