@@ -1,8 +1,8 @@
-<h1>Hi, I'm Demond!
+## Hi, I'm Demond!
 
-  
-<a href="https://www.linkedin.com/in/demond-mack-47b7632a9/">Cybersecurity Professional</a>
+**SOC Analyst | Threat Detection • Incident Response • SIEM Monitoring**
 
+Focused on monitoring systems, detecting anomalies, and performing structured investigations — with real-world experience mapped directly to SOC workflows.
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 <b>Industrial Operations → SOC Analyst Mindset Mapping</b>
