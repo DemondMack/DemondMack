@@ -5,6 +5,14 @@
 
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
+### Industrial Operations → SOC Analyst Mindset Mapping
+
+Demonstrates how real-world industrial system monitoring, anomaly detection, investigation, and incident response workflows directly align with SOC Analyst Level 1 responsibilities.
+
+- 🔗 View Project:
+  https://github.com/DemondMack/industrial-operations-to-soc-analyst
+  
+
 <b>Security Operations Center Home Lab</b>
 
 In this project, I set up a fully functioning Security Operations Center (SOC) homelab, where I deployed and configured SIEM tools, monitored network traffic, and simulated attacks to test incident response processes.
